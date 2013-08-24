@@ -1,0 +1,7 @@
+*iml
+.idea
+*.properties
+output
+tmp
+target
+*swp
